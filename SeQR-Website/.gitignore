@@ -11,6 +11,7 @@
 npm-debug.log
 yarn-error.log
 environments/*
+SeQR-Website/environments/*
 
 # IDEs and editors
 .idea/
